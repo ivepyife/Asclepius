@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="after_analyze">%1$s %2$s</string>
+    <string name="title_news">News</string>
+    <string name="title_analyzer">Analyzer</string>
+    <string name="title_history">History</string>
+    <string name="save_result">save result</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="news_image">News Image</string>
+    <string name="retry">Retry</string>
+    <string name="no_news_available">No news available</string>
+    <string name="history_image">history image</string>
+    <string name="delete_history">delete history</string>
+    <string name="result_history">Result: %1$s</string>
+    <string name="conf_score_history">Confidence Score: %1$s</string>
+    <string name="no_history_available">no history avaliable</string>
+    <string name="delete_confirmation_title">Delete item?</string>
+    <string name="delete_confirmation_message">remove from history</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">delete</string>
+    <string name="history_deleted">history deleted</string>
+</resources>
